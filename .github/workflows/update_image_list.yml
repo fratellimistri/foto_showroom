@@ -18,7 +18,9 @@ jobs:
           for img in $(ls images/); do
             echo "\"images/$img\"," >> images.json
           done
-          sed -i '$ s/,$/]/' images.json
+          # Rimuove l'ultima virgola e aggiunge la parentesi quadra di chiusura
+          sed -i '$ s/,$//' images.json
+          echo "]}" >> images.json
 
       - name: Commit and push if changed
         run: |
