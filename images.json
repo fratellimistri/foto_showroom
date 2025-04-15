@@ -1,6 +1,5 @@
 {"images": [
 "images/00.png",
-"images/00000000.jpg",
 "images/001.JPG",
 "images/002.JPG",
 "images/003.jpg",
@@ -72,9 +71,9 @@
 "images/060",
 "images/2",
 "images/-",
-"images/Copia",
-"images/-",
 "images/Copia.png",
+"images/060",
+"images/2.png",
 "images/060-2.jpg",
 "images/060.jpg",
 "images/061.jpg",
@@ -138,12 +137,8 @@
 "images/117.jpg",
 "images/118.JPG",
 "images/119.JPG",
-"images/120-",
+"images/120",
 "images/2",
-"images/-",
-"images/Copia",
-"images/-",
-"images/Copia",
 "images/-",
 "images/Copia.png",
 "images/120.JPG",
@@ -189,6 +184,5 @@
 "images/153.JPG",
 "images/35-20.jpg",
 "images/51-2.jpg",
-"images/89-1.jpg",
-"images/ACERBIS.jpg"
+"images/89-1.jpg"
 ]}
